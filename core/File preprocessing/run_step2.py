@@ -6,6 +6,7 @@
 2. 识别图框并拆分为独立子图 DXF
 3. 清理非几何图层
 """
+print("hello,the pretty cat named Qin~")
 
 import shutil
 import time
