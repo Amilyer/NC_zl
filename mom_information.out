@@ -1,0 +1,2153 @@
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_start_of_group
+Error Info: can't read "mom_tool_diameter": no such variable
+    while executing
+"format "%.2f" $mom_tool_diameter"
+    (procedure "PB_CMD_custom_command_3" line 8)
+    invoked from within
+"PB_CMD_custom_command_3"
+    (procedure "PB_start_of_program" line 14)
+    invoked from within
+"PB_start_of_program "
+    (procedure "MOM_start_of_group" line 24)
+    invoked from within
+"MOM_start_of_group"
+Error Code: TCL READ VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_start_of_group
+Error Info: can't read "mom_tool_diameter": no such variable
+    while executing
+"format "%.2f" $mom_tool_diameter"
+    (procedure "PB_CMD_custom_command_3" line 8)
+    invoked from within
+"PB_CMD_custom_command_3"
+    (procedure "PB_start_of_program" line 14)
+    invoked from within
+"PB_start_of_program "
+    (procedure "MOM_start_of_group" line 24)
+    invoked from within
+"MOM_start_of_group"
+Error Code: TCL READ VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_start_of_group
+Error Info: can't read "mom_tool_diameter": no such variable
+    while executing
+"format "%.2f" $mom_tool_diameter"
+    (procedure "PB_CMD_custom_command_3" line 8)
+    invoked from within
+"PB_CMD_custom_command_3"
+    (procedure "PB_start_of_program" line 14)
+    invoked from within
+"PB_start_of_program "
+    (procedure "MOM_start_of_group" line 24)
+    invoked from within
+"MOM_start_of_group"
+Error Code: TCL READ VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_start_of_group
+Error Info: can't read "mom_tool_diameter": no such variable
+    while executing
+"format "%.2f" $mom_tool_diameter"
+    (procedure "PB_CMD_custom_command_3" line 8)
+    invoked from within
+"PB_CMD_custom_command_3"
+    (procedure "PB_start_of_program" line 14)
+    invoked from within
+"PB_start_of_program "
+    (procedure "MOM_start_of_group" line 24)
+    invoked from within
+"MOM_start_of_group"
+Error Code: TCL READ VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_start_of_group
+Error Info: can't read "mom_tool_diameter": no such variable
+    while executing
+"format "%.2f" $mom_tool_diameter"
+    (procedure "PB_CMD_custom_command_3" line 8)
+    invoked from within
+"PB_CMD_custom_command_3"
+    (procedure "PB_start_of_program" line 14)
+    invoked from within
+"PB_start_of_program "
+    (procedure "MOM_start_of_group" line 24)
+    invoked from within
+"MOM_start_of_group"
+Error Code: TCL READ VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_start_of_group
+Error Info: can't read "mom_tool_diameter": no such variable
+    while executing
+"format "%.2f" $mom_tool_diameter"
+    (procedure "PB_CMD_custom_command_3" line 8)
+    invoked from within
+"PB_CMD_custom_command_3"
+    (procedure "PB_start_of_program" line 14)
+    invoked from within
+"PB_start_of_program "
+    (procedure "MOM_start_of_group" line 24)
+    invoked from within
+"MOM_start_of_group"
+Error Code: TCL READ VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_start_of_group
+Error Info: can't read "mom_tool_diameter": no such variable
+    while executing
+"format "%.2f" $mom_tool_diameter"
+    (procedure "PB_CMD_custom_command_3" line 8)
+    invoked from within
+"PB_CMD_custom_command_3"
+    (procedure "PB_start_of_program" line 14)
+    invoked from within
+"PB_start_of_program "
+    (procedure "MOM_start_of_group" line 24)
+    invoked from within
+"MOM_start_of_group"
+Error Code: TCL READ VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_start_of_group
+Error Info: can't read "mom_tool_diameter": no such variable
+    while executing
+"format "%.2f" $mom_tool_diameter"
+    (procedure "PB_CMD_custom_command_3" line 8)
+    invoked from within
+"PB_CMD_custom_command_3"
+    (procedure "PB_start_of_program" line 14)
+    invoked from within
+"PB_start_of_program "
+    (procedure "MOM_start_of_group" line 24)
+    invoked from within
+"MOM_start_of_group"
+Error Code: TCL READ VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_start_of_group
+Error Info: can't read "mom_tool_diameter": no such variable
+    while executing
+"format "%.2f" $mom_tool_diameter"
+    (procedure "PB_CMD_custom_command_3" line 8)
+    invoked from within
+"PB_CMD_custom_command_3"
+    (procedure "PB_start_of_program" line 14)
+    invoked from within
+"PB_start_of_program "
+    (procedure "MOM_start_of_group" line 24)
+    invoked from within
+"MOM_start_of_group"
+Error Code: TCL READ VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_start_of_group
+Error Info: can't read "mom_tool_diameter": no such variable
+    while executing
+"format "%.2f" $mom_tool_diameter"
+    (procedure "PB_CMD_custom_command_3" line 8)
+    invoked from within
+"PB_CMD_custom_command_3"
+    (procedure "PB_start_of_program" line 14)
+    invoked from within
+"PB_start_of_program "
+    (procedure "MOM_start_of_group" line 24)
+    invoked from within
+"MOM_start_of_group"
+Error Code: TCL READ VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_end_of_program
+Error Info: can't read "mom_sys_min_travel(2)": no such variable
+    while executing
+"format "%.2f" $mom_sys_min_travel(2)"
+    (procedure "PB_CMD_custom_command_4" line 17)
+    invoked from within
+"PB_CMD_custom_command_4"
+    (procedure "MOM_end_of_program" line 16)
+    invoked from within
+"MOM_end_of_program"
+Error Code: TCL LOOKUP VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_end_of_program
+Error Info: can't read "mom_sys_min_travel(2)": no such variable
+    while executing
+"format "%.2f" $mom_sys_min_travel(2)"
+    (procedure "PB_CMD_custom_command_4" line 17)
+    invoked from within
+"PB_CMD_custom_command_4"
+    (procedure "MOM_end_of_program" line 16)
+    invoked from within
+"MOM_end_of_program"
+Error Code: TCL LOOKUP VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_end_of_program
+Error Info: can't read "mom_sys_min_travel(2)": no such variable
+    while executing
+"format "%.2f" $mom_sys_min_travel(2)"
+    (procedure "PB_CMD_custom_command_4" line 17)
+    invoked from within
+"PB_CMD_custom_command_4"
+    (procedure "MOM_end_of_program" line 16)
+    invoked from within
+"MOM_end_of_program"
+Error Code: TCL LOOKUP VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_start_of_group
+Error Info: can't read "mom_tool_diameter": no such variable
+    while executing
+"format "%.2f" $mom_tool_diameter"
+    (procedure "PB_CMD_custom_command_3" line 8)
+    invoked from within
+"PB_CMD_custom_command_3"
+    (procedure "PB_start_of_program" line 14)
+    invoked from within
+"PB_start_of_program "
+    (procedure "MOM_start_of_group" line 24)
+    invoked from within
+"MOM_start_of_group"
+Error Code: TCL READ VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_start_of_group
+Error Info: can't read "mom_tool_diameter": no such variable
+    while executing
+"format "%.2f" $mom_tool_diameter"
+    (procedure "PB_CMD_custom_command_3" line 8)
+    invoked from within
+"PB_CMD_custom_command_3"
+    (procedure "PB_start_of_program" line 14)
+    invoked from within
+"PB_start_of_program "
+    (procedure "MOM_start_of_group" line 24)
+    invoked from within
+"MOM_start_of_group"
+Error Code: TCL READ VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_start_of_group
+Error Info: can't read "mom_tool_diameter": no such variable
+    while executing
+"format "%.2f" $mom_tool_diameter"
+    (procedure "PB_CMD_custom_command_3" line 8)
+    invoked from within
+"PB_CMD_custom_command_3"
+    (procedure "PB_start_of_program" line 14)
+    invoked from within
+"PB_start_of_program "
+    (procedure "MOM_start_of_group" line 24)
+    invoked from within
+"MOM_start_of_group"
+Error Code: TCL READ VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_start_of_group
+Error Info: can't read "mom_tool_diameter": no such variable
+    while executing
+"format "%.2f" $mom_tool_diameter"
+    (procedure "PB_CMD_custom_command_3" line 8)
+    invoked from within
+"PB_CMD_custom_command_3"
+    (procedure "PB_start_of_program" line 14)
+    invoked from within
+"PB_start_of_program "
+    (procedure "MOM_start_of_group" line 24)
+    invoked from within
+"MOM_start_of_group"
+Error Code: TCL READ VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_end_of_program
+Error Info: can't read "mom_sys_min_travel(2)": no such variable
+    while executing
+"format "%.2f" $mom_sys_min_travel(2)"
+    (procedure "PB_CMD_custom_command_4" line 17)
+    invoked from within
+"PB_CMD_custom_command_4"
+    (procedure "MOM_end_of_program" line 16)
+    invoked from within
+"MOM_end_of_program"
+Error Code: TCL LOOKUP VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_end_of_program
+Error Info: can't read "mom_sys_min_travel(2)": no such variable
+    while executing
+"format "%.2f" $mom_sys_min_travel(2)"
+    (procedure "PB_CMD_custom_command_4" line 17)
+    invoked from within
+"PB_CMD_custom_command_4"
+    (procedure "MOM_end_of_program" line 16)
+    invoked from within
+"MOM_end_of_program"
+Error Code: TCL LOOKUP VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_end_of_program
+Error Info: can't read "mom_sys_min_travel(2)": no such variable
+    while executing
+"format "%.2f" $mom_sys_min_travel(2)"
+    (procedure "PB_CMD_custom_command_4" line 17)
+    invoked from within
+"PB_CMD_custom_command_4"
+    (procedure "MOM_end_of_program" line 16)
+    invoked from within
+"MOM_end_of_program"
+Error Code: TCL LOOKUP VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_end_of_program
+Error Info: can't read "mom_sys_min_travel(2)": no such variable
+    while executing
+"format "%.2f" $mom_sys_min_travel(2)"
+    (procedure "PB_CMD_custom_command_4" line 17)
+    invoked from within
+"PB_CMD_custom_command_4"
+    (procedure "MOM_end_of_program" line 16)
+    invoked from within
+"MOM_end_of_program"
+Error Code: TCL LOOKUP VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_end_of_program
+Error Info: can't read "mom_sys_min_travel(2)": no such variable
+    while executing
+"format "%.2f" $mom_sys_min_travel(2)"
+    (procedure "PB_CMD_custom_command_4" line 17)
+    invoked from within
+"PB_CMD_custom_command_4"
+    (procedure "MOM_end_of_program" line 16)
+    invoked from within
+"MOM_end_of_program"
+Error Code: TCL LOOKUP VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_end_of_program
+Error Info: can't read "mom_sys_min_travel(2)": no such variable
+    while executing
+"format "%.2f" $mom_sys_min_travel(2)"
+    (procedure "PB_CMD_custom_command_4" line 17)
+    invoked from within
+"PB_CMD_custom_command_4"
+    (procedure "MOM_end_of_program" line 16)
+    invoked from within
+"MOM_end_of_program"
+Error Code: TCL LOOKUP VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_start_of_group
+Error Info: can't read "mom_tool_diameter": no such variable
+    while executing
+"format "%.2f" $mom_tool_diameter"
+    (procedure "PB_CMD_custom_command_3" line 8)
+    invoked from within
+"PB_CMD_custom_command_3"
+    (procedure "PB_start_of_program" line 14)
+    invoked from within
+"PB_start_of_program "
+    (procedure "MOM_start_of_group" line 24)
+    invoked from within
+"MOM_start_of_group"
+Error Code: TCL READ VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_start_of_group
+Error Info: can't read "mom_tool_diameter": no such variable
+    while executing
+"format "%.2f" $mom_tool_diameter"
+    (procedure "PB_CMD_custom_command_3" line 8)
+    invoked from within
+"PB_CMD_custom_command_3"
+    (procedure "PB_start_of_program" line 14)
+    invoked from within
+"PB_start_of_program "
+    (procedure "MOM_start_of_group" line 24)
+    invoked from within
+"MOM_start_of_group"
+Error Code: TCL READ VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_start_of_group
+Error Info: can't read "mom_tool_diameter": no such variable
+    while executing
+"format "%.2f" $mom_tool_diameter"
+    (procedure "PB_CMD_custom_command_3" line 8)
+    invoked from within
+"PB_CMD_custom_command_3"
+    (procedure "PB_start_of_program" line 14)
+    invoked from within
+"PB_start_of_program "
+    (procedure "MOM_start_of_group" line 24)
+    invoked from within
+"MOM_start_of_group"
+Error Code: TCL READ VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_start_of_group
+Error Info: can't read "mom_tool_diameter": no such variable
+    while executing
+"format "%.2f" $mom_tool_diameter"
+    (procedure "PB_CMD_custom_command_3" line 8)
+    invoked from within
+"PB_CMD_custom_command_3"
+    (procedure "PB_start_of_program" line 14)
+    invoked from within
+"PB_start_of_program "
+    (procedure "MOM_start_of_group" line 24)
+    invoked from within
+"MOM_start_of_group"
+Error Code: TCL READ VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_start_of_group
+Error Info: can't read "mom_tool_diameter": no such variable
+    while executing
+"format "%.2f" $mom_tool_diameter"
+    (procedure "PB_CMD_custom_command_3" line 8)
+    invoked from within
+"PB_CMD_custom_command_3"
+    (procedure "PB_start_of_program" line 14)
+    invoked from within
+"PB_start_of_program "
+    (procedure "MOM_start_of_group" line 24)
+    invoked from within
+"MOM_start_of_group"
+Error Code: TCL READ VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_start_of_group
+Error Info: can't read "mom_tool_diameter": no such variable
+    while executing
+"format "%.2f" $mom_tool_diameter"
+    (procedure "PB_CMD_custom_command_3" line 8)
+    invoked from within
+"PB_CMD_custom_command_3"
+    (procedure "PB_start_of_program" line 14)
+    invoked from within
+"PB_start_of_program "
+    (procedure "MOM_start_of_group" line 24)
+    invoked from within
+"MOM_start_of_group"
+Error Code: TCL READ VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_start_of_group
+Error Info: can't read "mom_tool_diameter": no such variable
+    while executing
+"format "%.2f" $mom_tool_diameter"
+    (procedure "PB_CMD_custom_command_3" line 8)
+    invoked from within
+"PB_CMD_custom_command_3"
+    (procedure "PB_start_of_program" line 14)
+    invoked from within
+"PB_start_of_program "
+    (procedure "MOM_start_of_group" line 24)
+    invoked from within
+"MOM_start_of_group"
+Error Code: TCL READ VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_end_of_program
+Error Info: can't read "mom_sys_min_travel(2)": no such variable
+    while executing
+"format "%.2f" $mom_sys_min_travel(2)"
+    (procedure "PB_CMD_custom_command_4" line 17)
+    invoked from within
+"PB_CMD_custom_command_4"
+    (procedure "MOM_end_of_program" line 16)
+    invoked from within
+"MOM_end_of_program"
+Error Code: TCL LOOKUP VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_end_of_program
+Error Info: can't read "mom_sys_min_travel(2)": no such variable
+    while executing
+"format "%.2f" $mom_sys_min_travel(2)"
+    (procedure "PB_CMD_custom_command_4" line 17)
+    invoked from within
+"PB_CMD_custom_command_4"
+    (procedure "MOM_end_of_program" line 16)
+    invoked from within
+"MOM_end_of_program"
+Error Code: TCL LOOKUP VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_end_of_program
+Error Info: can't read "mom_sys_min_travel(2)": no such variable
+    while executing
+"format "%.2f" $mom_sys_min_travel(2)"
+    (procedure "PB_CMD_custom_command_4" line 17)
+    invoked from within
+"PB_CMD_custom_command_4"
+    (procedure "MOM_end_of_program" line 16)
+    invoked from within
+"MOM_end_of_program"
+Error Code: TCL LOOKUP VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_start_of_group
+Error Info: can't read "mom_tool_diameter": no such variable
+    while executing
+"format "%.2f" $mom_tool_diameter"
+    (procedure "PB_CMD_custom_command_3" line 8)
+    invoked from within
+"PB_CMD_custom_command_3"
+    (procedure "PB_start_of_program" line 14)
+    invoked from within
+"PB_start_of_program "
+    (procedure "MOM_start_of_group" line 24)
+    invoked from within
+"MOM_start_of_group"
+Error Code: TCL READ VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_end_of_program
+Error Info: can't read "mom_sys_min_travel(2)": no such variable
+    while executing
+"format "%.2f" $mom_sys_min_travel(2)"
+    (procedure "PB_CMD_custom_command_4" line 17)
+    invoked from within
+"PB_CMD_custom_command_4"
+    (procedure "MOM_end_of_program" line 16)
+    invoked from within
+"MOM_end_of_program"
+Error Code: TCL LOOKUP VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_end_of_program
+Error Info: can't read "mom_sys_min_travel(2)": no such variable
+    while executing
+"format "%.2f" $mom_sys_min_travel(2)"
+    (procedure "PB_CMD_custom_command_4" line 17)
+    invoked from within
+"PB_CMD_custom_command_4"
+    (procedure "MOM_end_of_program" line 16)
+    invoked from within
+"MOM_end_of_program"
+Error Code: TCL LOOKUP VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_end_of_program
+Error Info: can't read "mom_sys_min_travel(2)": no such variable
+    while executing
+"format "%.2f" $mom_sys_min_travel(2)"
+    (procedure "PB_CMD_custom_command_4" line 17)
+    invoked from within
+"PB_CMD_custom_command_4"
+    (procedure "MOM_end_of_program" line 16)
+    invoked from within
+"MOM_end_of_program"
+Error Code: TCL LOOKUP VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_start_of_group
+Error Info: can't read "mom_tool_diameter": no such variable
+    while executing
+"format "%.2f" $mom_tool_diameter"
+    (procedure "PB_CMD_custom_command_3" line 8)
+    invoked from within
+"PB_CMD_custom_command_3"
+    (procedure "PB_start_of_program" line 14)
+    invoked from within
+"PB_start_of_program "
+    (procedure "MOM_start_of_group" line 24)
+    invoked from within
+"MOM_start_of_group"
+Error Code: TCL READ VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_start_of_group
+Error Info: can't read "mom_tool_diameter": no such variable
+    while executing
+"format "%.2f" $mom_tool_diameter"
+    (procedure "PB_CMD_custom_command_3" line 8)
+    invoked from within
+"PB_CMD_custom_command_3"
+    (procedure "PB_start_of_program" line 14)
+    invoked from within
+"PB_start_of_program "
+    (procedure "MOM_start_of_group" line 24)
+    invoked from within
+"MOM_start_of_group"
+Error Code: TCL READ VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_end_of_program
+Error Info: can't read "mom_sys_min_travel(2)": no such variable
+    while executing
+"format "%.2f" $mom_sys_min_travel(2)"
+    (procedure "PB_CMD_custom_command_4" line 17)
+    invoked from within
+"PB_CMD_custom_command_4"
+    (procedure "MOM_end_of_program" line 16)
+    invoked from within
+"MOM_end_of_program"
+Error Code: TCL LOOKUP VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_end_of_program
+Error Info: can't read "mom_sys_min_travel(2)": no such variable
+    while executing
+"format "%.2f" $mom_sys_min_travel(2)"
+    (procedure "PB_CMD_custom_command_4" line 17)
+    invoked from within
+"PB_CMD_custom_command_4"
+    (procedure "MOM_end_of_program" line 16)
+    invoked from within
+"MOM_end_of_program"
+Error Code: TCL LOOKUP VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_end_of_program
+Error Info: can't read "mom_sys_min_travel(2)": no such variable
+    while executing
+"format "%.2f" $mom_sys_min_travel(2)"
+    (procedure "PB_CMD_custom_command_4" line 17)
+    invoked from within
+"PB_CMD_custom_command_4"
+    (procedure "MOM_end_of_program" line 16)
+    invoked from within
+"MOM_end_of_program"
+Error Code: TCL LOOKUP VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_start_of_group
+Error Info: can't read "mom_tool_diameter": no such variable
+    while executing
+"format "%.2f" $mom_tool_diameter"
+    (procedure "PB_CMD_custom_command_3" line 8)
+    invoked from within
+"PB_CMD_custom_command_3"
+    (procedure "PB_start_of_program" line 14)
+    invoked from within
+"PB_start_of_program "
+    (procedure "MOM_start_of_group" line 24)
+    invoked from within
+"MOM_start_of_group"
+Error Code: TCL READ VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_end_of_program
+Error Info: can't read "mom_sys_min_travel(2)": no such variable
+    while executing
+"format "%.2f" $mom_sys_min_travel(2)"
+    (procedure "PB_CMD_custom_command_4" line 17)
+    invoked from within
+"PB_CMD_custom_command_4"
+    (procedure "MOM_end_of_program" line 16)
+    invoked from within
+"MOM_end_of_program"
+Error Code: TCL LOOKUP VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_end_of_program
+Error Info: can't read "mom_sys_min_travel(2)": no such variable
+    while executing
+"format "%.2f" $mom_sys_min_travel(2)"
+    (procedure "PB_CMD_custom_command_4" line 17)
+    invoked from within
+"PB_CMD_custom_command_4"
+    (procedure "MOM_end_of_program" line 16)
+    invoked from within
+"MOM_end_of_program"
+Error Code: TCL LOOKUP VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_end_of_program
+Error Info: can't read "mom_sys_min_travel(2)": no such variable
+    while executing
+"format "%.2f" $mom_sys_min_travel(2)"
+    (procedure "PB_CMD_custom_command_4" line 17)
+    invoked from within
+"PB_CMD_custom_command_4"
+    (procedure "MOM_end_of_program" line 16)
+    invoked from within
+"MOM_end_of_program"
+Error Code: TCL LOOKUP VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_start_of_group
+Error Info: can't read "mom_tool_diameter": no such variable
+    while executing
+"format "%.2f" $mom_tool_diameter"
+    (procedure "PB_CMD_custom_command_3" line 8)
+    invoked from within
+"PB_CMD_custom_command_3"
+    (procedure "PB_start_of_program" line 14)
+    invoked from within
+"PB_start_of_program "
+    (procedure "MOM_start_of_group" line 24)
+    invoked from within
+"MOM_start_of_group"
+Error Code: TCL READ VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_start_of_group
+Error Info: can't read "mom_tool_diameter": no such variable
+    while executing
+"format "%.2f" $mom_tool_diameter"
+    (procedure "PB_CMD_custom_command_3" line 8)
+    invoked from within
+"PB_CMD_custom_command_3"
+    (procedure "PB_start_of_program" line 14)
+    invoked from within
+"PB_start_of_program "
+    (procedure "MOM_start_of_group" line 24)
+    invoked from within
+"MOM_start_of_group"
+Error Code: TCL READ VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_start_of_group
+Error Info: can't read "mom_tool_diameter": no such variable
+    while executing
+"format "%.2f" $mom_tool_diameter"
+    (procedure "PB_CMD_custom_command_3" line 8)
+    invoked from within
+"PB_CMD_custom_command_3"
+    (procedure "PB_start_of_program" line 14)
+    invoked from within
+"PB_start_of_program "
+    (procedure "MOM_start_of_group" line 24)
+    invoked from within
+"MOM_start_of_group"
+Error Code: TCL READ VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_start_of_group
+Error Info: can't read "mom_tool_diameter": no such variable
+    while executing
+"format "%.2f" $mom_tool_diameter"
+    (procedure "PB_CMD_custom_command_3" line 8)
+    invoked from within
+"PB_CMD_custom_command_3"
+    (procedure "PB_start_of_program" line 14)
+    invoked from within
+"PB_start_of_program "
+    (procedure "MOM_start_of_group" line 24)
+    invoked from within
+"MOM_start_of_group"
+Error Code: TCL READ VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_end_of_program
+Error Info: can't read "mom_sys_min_travel(2)": no such variable
+    while executing
+"format "%.2f" $mom_sys_min_travel(2)"
+    (procedure "PB_CMD_custom_command_4" line 17)
+    invoked from within
+"PB_CMD_custom_command_4"
+    (procedure "MOM_end_of_program" line 16)
+    invoked from within
+"MOM_end_of_program"
+Error Code: TCL LOOKUP VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_end_of_program
+Error Info: can't read "mom_sys_min_travel(2)": no such variable
+    while executing
+"format "%.2f" $mom_sys_min_travel(2)"
+    (procedure "PB_CMD_custom_command_4" line 17)
+    invoked from within
+"PB_CMD_custom_command_4"
+    (procedure "MOM_end_of_program" line 16)
+    invoked from within
+"MOM_end_of_program"
+Error Code: TCL LOOKUP VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_end_of_program
+Error Info: can't read "mom_sys_min_travel(2)": no such variable
+    while executing
+"format "%.2f" $mom_sys_min_travel(2)"
+    (procedure "PB_CMD_custom_command_4" line 17)
+    invoked from within
+"PB_CMD_custom_command_4"
+    (procedure "MOM_end_of_program" line 16)
+    invoked from within
+"MOM_end_of_program"
+Error Code: TCL LOOKUP VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_start_of_group
+Error Info: can't read "mom_tool_diameter": no such variable
+    while executing
+"format "%.2f" $mom_tool_diameter"
+    (procedure "PB_CMD_custom_command_3" line 8)
+    invoked from within
+"PB_CMD_custom_command_3"
+    (procedure "PB_start_of_program" line 14)
+    invoked from within
+"PB_start_of_program "
+    (procedure "MOM_start_of_group" line 24)
+    invoked from within
+"MOM_start_of_group"
+Error Code: TCL READ VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_start_of_group
+Error Info: can't read "mom_tool_diameter": no such variable
+    while executing
+"format "%.2f" $mom_tool_diameter"
+    (procedure "PB_CMD_custom_command_3" line 8)
+    invoked from within
+"PB_CMD_custom_command_3"
+    (procedure "PB_start_of_program" line 14)
+    invoked from within
+"PB_start_of_program "
+    (procedure "MOM_start_of_group" line 24)
+    invoked from within
+"MOM_start_of_group"
+Error Code: TCL READ VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_start_of_group
+Error Info: can't read "mom_tool_diameter": no such variable
+    while executing
+"format "%.2f" $mom_tool_diameter"
+    (procedure "PB_CMD_custom_command_3" line 8)
+    invoked from within
+"PB_CMD_custom_command_3"
+    (procedure "PB_start_of_program" line 14)
+    invoked from within
+"PB_start_of_program "
+    (procedure "MOM_start_of_group" line 24)
+    invoked from within
+"MOM_start_of_group"
+Error Code: TCL READ VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_end_of_program
+Error Info: can't read "mom_sys_min_travel(2)": no such variable
+    while executing
+"format "%.2f" $mom_sys_min_travel(2)"
+    (procedure "PB_CMD_custom_command_4" line 17)
+    invoked from within
+"PB_CMD_custom_command_4"
+    (procedure "MOM_end_of_program" line 16)
+    invoked from within
+"MOM_end_of_program"
+Error Code: TCL LOOKUP VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_end_of_program
+Error Info: can't read "mom_sys_min_travel(2)": no such variable
+    while executing
+"format "%.2f" $mom_sys_min_travel(2)"
+    (procedure "PB_CMD_custom_command_4" line 17)
+    invoked from within
+"PB_CMD_custom_command_4"
+    (procedure "MOM_end_of_program" line 16)
+    invoked from within
+"MOM_end_of_program"
+Error Code: TCL LOOKUP VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_end_of_program
+Error Info: can't read "mom_sys_min_travel(2)": no such variable
+    while executing
+"format "%.2f" $mom_sys_min_travel(2)"
+    (procedure "PB_CMD_custom_command_4" line 17)
+    invoked from within
+"PB_CMD_custom_command_4"
+    (procedure "MOM_end_of_program" line 16)
+    invoked from within
+"MOM_end_of_program"
+Error Code: TCL LOOKUP VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_start_of_group
+Error Info: can't read "mom_tool_diameter": no such variable
+    while executing
+"format "%.2f" $mom_tool_diameter"
+    (procedure "PB_CMD_custom_command_3" line 8)
+    invoked from within
+"PB_CMD_custom_command_3"
+    (procedure "PB_start_of_program" line 14)
+    invoked from within
+"PB_start_of_program "
+    (procedure "MOM_start_of_group" line 24)
+    invoked from within
+"MOM_start_of_group"
+Error Code: TCL READ VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_end_of_program
+Error Info: can't read "mom_sys_min_travel(2)": no such variable
+    while executing
+"format "%.2f" $mom_sys_min_travel(2)"
+    (procedure "PB_CMD_custom_command_4" line 17)
+    invoked from within
+"PB_CMD_custom_command_4"
+    (procedure "MOM_end_of_program" line 16)
+    invoked from within
+"MOM_end_of_program"
+Error Code: TCL LOOKUP VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_end_of_program
+Error Info: can't read "mom_sys_min_travel(2)": no such variable
+    while executing
+"format "%.2f" $mom_sys_min_travel(2)"
+    (procedure "PB_CMD_custom_command_4" line 17)
+    invoked from within
+"PB_CMD_custom_command_4"
+    (procedure "MOM_end_of_program" line 16)
+    invoked from within
+"MOM_end_of_program"
+Error Code: TCL LOOKUP VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_end_of_program
+Error Info: can't read "mom_sys_min_travel(2)": no such variable
+    while executing
+"format "%.2f" $mom_sys_min_travel(2)"
+    (procedure "PB_CMD_custom_command_4" line 17)
+    invoked from within
+"PB_CMD_custom_command_4"
+    (procedure "MOM_end_of_program" line 16)
+    invoked from within
+"MOM_end_of_program"
+Error Code: TCL LOOKUP VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_start_of_group
+Error Info: can't read "mom_tool_diameter": no such variable
+    while executing
+"format "%.2f" $mom_tool_diameter"
+    (procedure "PB_CMD_custom_command_3" line 8)
+    invoked from within
+"PB_CMD_custom_command_3"
+    (procedure "PB_start_of_program" line 14)
+    invoked from within
+"PB_start_of_program "
+    (procedure "MOM_start_of_group" line 24)
+    invoked from within
+"MOM_start_of_group"
+Error Code: TCL READ VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_start_of_group
+Error Info: can't read "mom_tool_diameter": no such variable
+    while executing
+"format "%.2f" $mom_tool_diameter"
+    (procedure "PB_CMD_custom_command_3" line 8)
+    invoked from within
+"PB_CMD_custom_command_3"
+    (procedure "PB_start_of_program" line 14)
+    invoked from within
+"PB_start_of_program "
+    (procedure "MOM_start_of_group" line 24)
+    invoked from within
+"MOM_start_of_group"
+Error Code: TCL READ VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_start_of_group
+Error Info: can't read "mom_tool_diameter": no such variable
+    while executing
+"format "%.2f" $mom_tool_diameter"
+    (procedure "PB_CMD_custom_command_3" line 8)
+    invoked from within
+"PB_CMD_custom_command_3"
+    (procedure "PB_start_of_program" line 14)
+    invoked from within
+"PB_start_of_program "
+    (procedure "MOM_start_of_group" line 24)
+    invoked from within
+"MOM_start_of_group"
+Error Code: TCL READ VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_end_of_program
+Error Info: can't read "mom_sys_min_travel(2)": no such variable
+    while executing
+"format "%.2f" $mom_sys_min_travel(2)"
+    (procedure "PB_CMD_custom_command_4" line 17)
+    invoked from within
+"PB_CMD_custom_command_4"
+    (procedure "MOM_end_of_program" line 16)
+    invoked from within
+"MOM_end_of_program"
+Error Code: TCL LOOKUP VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_end_of_program
+Error Info: can't read "mom_sys_min_travel(2)": no such variable
+    while executing
+"format "%.2f" $mom_sys_min_travel(2)"
+    (procedure "PB_CMD_custom_command_4" line 17)
+    invoked from within
+"PB_CMD_custom_command_4"
+    (procedure "MOM_end_of_program" line 16)
+    invoked from within
+"MOM_end_of_program"
+Error Code: TCL LOOKUP VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_end_of_program
+Error Info: can't read "mom_sys_min_travel(2)": no such variable
+    while executing
+"format "%.2f" $mom_sys_min_travel(2)"
+    (procedure "PB_CMD_custom_command_4" line 17)
+    invoked from within
+"PB_CMD_custom_command_4"
+    (procedure "MOM_end_of_program" line 16)
+    invoked from within
+"MOM_end_of_program"
+Error Code: TCL LOOKUP VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_start_of_group
+Error Info: can't read "mom_tool_diameter": no such variable
+    while executing
+"format "%.2f" $mom_tool_diameter"
+    (procedure "PB_CMD_custom_command_3" line 8)
+    invoked from within
+"PB_CMD_custom_command_3"
+    (procedure "PB_start_of_program" line 14)
+    invoked from within
+"PB_start_of_program "
+    (procedure "MOM_start_of_group" line 24)
+    invoked from within
+"MOM_start_of_group"
+Error Code: TCL READ VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_start_of_group
+Error Info: can't read "mom_tool_diameter": no such variable
+    while executing
+"format "%.2f" $mom_tool_diameter"
+    (procedure "PB_CMD_custom_command_3" line 8)
+    invoked from within
+"PB_CMD_custom_command_3"
+    (procedure "PB_start_of_program" line 14)
+    invoked from within
+"PB_start_of_program "
+    (procedure "MOM_start_of_group" line 24)
+    invoked from within
+"MOM_start_of_group"
+Error Code: TCL READ VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_start_of_group
+Error Info: can't read "mom_tool_diameter": no such variable
+    while executing
+"format "%.2f" $mom_tool_diameter"
+    (procedure "PB_CMD_custom_command_3" line 8)
+    invoked from within
+"PB_CMD_custom_command_3"
+    (procedure "PB_start_of_program" line 14)
+    invoked from within
+"PB_start_of_program "
+    (procedure "MOM_start_of_group" line 24)
+    invoked from within
+"MOM_start_of_group"
+Error Code: TCL READ VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_start_of_group
+Error Info: can't read "mom_tool_diameter": no such variable
+    while executing
+"format "%.2f" $mom_tool_diameter"
+    (procedure "PB_CMD_custom_command_3" line 8)
+    invoked from within
+"PB_CMD_custom_command_3"
+    (procedure "PB_start_of_program" line 14)
+    invoked from within
+"PB_start_of_program "
+    (procedure "MOM_start_of_group" line 24)
+    invoked from within
+"MOM_start_of_group"
+Error Code: TCL READ VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_start_of_group
+Error Info: can't read "mom_tool_diameter": no such variable
+    while executing
+"format "%.2f" $mom_tool_diameter"
+    (procedure "PB_CMD_custom_command_3" line 8)
+    invoked from within
+"PB_CMD_custom_command_3"
+    (procedure "PB_start_of_program" line 14)
+    invoked from within
+"PB_start_of_program "
+    (procedure "MOM_start_of_group" line 24)
+    invoked from within
+"MOM_start_of_group"
+Error Code: TCL READ VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_start_of_group
+Error Info: can't read "mom_tool_diameter": no such variable
+    while executing
+"format "%.2f" $mom_tool_diameter"
+    (procedure "PB_CMD_custom_command_3" line 8)
+    invoked from within
+"PB_CMD_custom_command_3"
+    (procedure "PB_start_of_program" line 14)
+    invoked from within
+"PB_start_of_program "
+    (procedure "MOM_start_of_group" line 24)
+    invoked from within
+"MOM_start_of_group"
+Error Code: TCL READ VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_end_of_program
+Error Info: can't read "mom_sys_min_travel(2)": no such variable
+    while executing
+"format "%.2f" $mom_sys_min_travel(2)"
+    (procedure "PB_CMD_custom_command_4" line 17)
+    invoked from within
+"PB_CMD_custom_command_4"
+    (procedure "MOM_end_of_program" line 16)
+    invoked from within
+"MOM_end_of_program"
+Error Code: TCL LOOKUP VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_end_of_program
+Error Info: can't read "mom_sys_min_travel(2)": no such variable
+    while executing
+"format "%.2f" $mom_sys_min_travel(2)"
+    (procedure "PB_CMD_custom_command_4" line 17)
+    invoked from within
+"PB_CMD_custom_command_4"
+    (procedure "MOM_end_of_program" line 16)
+    invoked from within
+"MOM_end_of_program"
+Error Code: TCL LOOKUP VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_end_of_program
+Error Info: can't read "mom_sys_min_travel(2)": no such variable
+    while executing
+"format "%.2f" $mom_sys_min_travel(2)"
+    (procedure "PB_CMD_custom_command_4" line 17)
+    invoked from within
+"PB_CMD_custom_command_4"
+    (procedure "MOM_end_of_program" line 16)
+    invoked from within
+"MOM_end_of_program"
+Error Code: TCL LOOKUP VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_start_of_group
+Error Info: can't read "mom_tool_diameter": no such variable
+    while executing
+"format "%.2f" $mom_tool_diameter"
+    (procedure "PB_CMD_custom_command_3" line 8)
+    invoked from within
+"PB_CMD_custom_command_3"
+    (procedure "PB_start_of_program" line 14)
+    invoked from within
+"PB_start_of_program "
+    (procedure "MOM_start_of_group" line 24)
+    invoked from within
+"MOM_start_of_group"
+Error Code: TCL READ VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_start_of_group
+Error Info: can't read "mom_tool_diameter": no such variable
+    while executing
+"format "%.2f" $mom_tool_diameter"
+    (procedure "PB_CMD_custom_command_3" line 8)
+    invoked from within
+"PB_CMD_custom_command_3"
+    (procedure "PB_start_of_program" line 14)
+    invoked from within
+"PB_start_of_program "
+    (procedure "MOM_start_of_group" line 24)
+    invoked from within
+"MOM_start_of_group"
+Error Code: TCL READ VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_start_of_group
+Error Info: can't read "mom_tool_diameter": no such variable
+    while executing
+"format "%.2f" $mom_tool_diameter"
+    (procedure "PB_CMD_custom_command_3" line 8)
+    invoked from within
+"PB_CMD_custom_command_3"
+    (procedure "PB_start_of_program" line 14)
+    invoked from within
+"PB_start_of_program "
+    (procedure "MOM_start_of_group" line 24)
+    invoked from within
+"MOM_start_of_group"
+Error Code: TCL READ VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_start_of_group
+Error Info: can't read "mom_tool_diameter": no such variable
+    while executing
+"format "%.2f" $mom_tool_diameter"
+    (procedure "PB_CMD_custom_command_3" line 8)
+    invoked from within
+"PB_CMD_custom_command_3"
+    (procedure "PB_start_of_program" line 14)
+    invoked from within
+"PB_start_of_program "
+    (procedure "MOM_start_of_group" line 24)
+    invoked from within
+"MOM_start_of_group"
+Error Code: TCL READ VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_start_of_group
+Error Info: can't read "mom_tool_diameter": no such variable
+    while executing
+"format "%.2f" $mom_tool_diameter"
+    (procedure "PB_CMD_custom_command_3" line 8)
+    invoked from within
+"PB_CMD_custom_command_3"
+    (procedure "PB_start_of_program" line 14)
+    invoked from within
+"PB_start_of_program "
+    (procedure "MOM_start_of_group" line 24)
+    invoked from within
+"MOM_start_of_group"
+Error Code: TCL READ VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_start_of_group
+Error Info: can't read "mom_tool_diameter": no such variable
+    while executing
+"format "%.2f" $mom_tool_diameter"
+    (procedure "PB_CMD_custom_command_3" line 8)
+    invoked from within
+"PB_CMD_custom_command_3"
+    (procedure "PB_start_of_program" line 14)
+    invoked from within
+"PB_start_of_program "
+    (procedure "MOM_start_of_group" line 24)
+    invoked from within
+"MOM_start_of_group"
+Error Code: TCL READ VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_start_of_group
+Error Info: can't read "mom_tool_diameter": no such variable
+    while executing
+"format "%.2f" $mom_tool_diameter"
+    (procedure "PB_CMD_custom_command_3" line 8)
+    invoked from within
+"PB_CMD_custom_command_3"
+    (procedure "PB_start_of_program" line 14)
+    invoked from within
+"PB_start_of_program "
+    (procedure "MOM_start_of_group" line 24)
+    invoked from within
+"MOM_start_of_group"
+Error Code: TCL READ VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_start_of_group
+Error Info: can't read "mom_tool_diameter": no such variable
+    while executing
+"format "%.2f" $mom_tool_diameter"
+    (procedure "PB_CMD_custom_command_3" line 8)
+    invoked from within
+"PB_CMD_custom_command_3"
+    (procedure "PB_start_of_program" line 14)
+    invoked from within
+"PB_start_of_program "
+    (procedure "MOM_start_of_group" line 24)
+    invoked from within
+"MOM_start_of_group"
+Error Code: TCL READ VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_start_of_group
+Error Info: can't read "mom_tool_diameter": no such variable
+    while executing
+"format "%.2f" $mom_tool_diameter"
+    (procedure "PB_CMD_custom_command_3" line 8)
+    invoked from within
+"PB_CMD_custom_command_3"
+    (procedure "PB_start_of_program" line 14)
+    invoked from within
+"PB_start_of_program "
+    (procedure "MOM_start_of_group" line 24)
+    invoked from within
+"MOM_start_of_group"
+Error Code: TCL READ VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_end_of_program
+Error Info: can't read "mom_sys_min_travel(2)": no such variable
+    while executing
+"format "%.2f" $mom_sys_min_travel(2)"
+    (procedure "PB_CMD_custom_command_4" line 17)
+    invoked from within
+"PB_CMD_custom_command_4"
+    (procedure "MOM_end_of_program" line 16)
+    invoked from within
+"MOM_end_of_program"
+Error Code: TCL LOOKUP VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_end_of_program
+Error Info: can't read "mom_sys_min_travel(2)": no such variable
+    while executing
+"format "%.2f" $mom_sys_min_travel(2)"
+    (procedure "PB_CMD_custom_command_4" line 17)
+    invoked from within
+"PB_CMD_custom_command_4"
+    (procedure "MOM_end_of_program" line 16)
+    invoked from within
+"MOM_end_of_program"
+Error Code: TCL LOOKUP VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_end_of_program
+Error Info: can't read "mom_sys_min_travel(2)": no such variable
+    while executing
+"format "%.2f" $mom_sys_min_travel(2)"
+    (procedure "PB_CMD_custom_command_4" line 17)
+    invoked from within
+"PB_CMD_custom_command_4"
+    (procedure "MOM_end_of_program" line 16)
+    invoked from within
+"MOM_end_of_program"
+Error Code: TCL LOOKUP VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_start_of_group
+Error Info: can't read "mom_tool_diameter": no such variable
+    while executing
+"format "%.2f" $mom_tool_diameter"
+    (procedure "PB_CMD_custom_command_3" line 8)
+    invoked from within
+"PB_CMD_custom_command_3"
+    (procedure "PB_start_of_program" line 14)
+    invoked from within
+"PB_start_of_program "
+    (procedure "MOM_start_of_group" line 24)
+    invoked from within
+"MOM_start_of_group"
+Error Code: TCL READ VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_start_of_group
+Error Info: can't read "mom_tool_diameter": no such variable
+    while executing
+"format "%.2f" $mom_tool_diameter"
+    (procedure "PB_CMD_custom_command_3" line 8)
+    invoked from within
+"PB_CMD_custom_command_3"
+    (procedure "PB_start_of_program" line 14)
+    invoked from within
+"PB_start_of_program "
+    (procedure "MOM_start_of_group" line 24)
+    invoked from within
+"MOM_start_of_group"
+Error Code: TCL READ VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_start_of_group
+Error Info: can't read "mom_tool_diameter": no such variable
+    while executing
+"format "%.2f" $mom_tool_diameter"
+    (procedure "PB_CMD_custom_command_3" line 8)
+    invoked from within
+"PB_CMD_custom_command_3"
+    (procedure "PB_start_of_program" line 14)
+    invoked from within
+"PB_start_of_program "
+    (procedure "MOM_start_of_group" line 24)
+    invoked from within
+"MOM_start_of_group"
+Error Code: TCL READ VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_start_of_group
+Error Info: can't read "mom_tool_diameter": no such variable
+    while executing
+"format "%.2f" $mom_tool_diameter"
+    (procedure "PB_CMD_custom_command_3" line 8)
+    invoked from within
+"PB_CMD_custom_command_3"
+    (procedure "PB_start_of_program" line 14)
+    invoked from within
+"PB_start_of_program "
+    (procedure "MOM_start_of_group" line 24)
+    invoked from within
+"MOM_start_of_group"
+Error Code: TCL READ VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_end_of_program
+Error Info: can't read "mom_sys_min_travel(2)": no such variable
+    while executing
+"format "%.2f" $mom_sys_min_travel(2)"
+    (procedure "PB_CMD_custom_command_4" line 17)
+    invoked from within
+"PB_CMD_custom_command_4"
+    (procedure "MOM_end_of_program" line 16)
+    invoked from within
+"MOM_end_of_program"
+Error Code: TCL LOOKUP VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_end_of_program
+Error Info: can't read "mom_sys_min_travel(2)": no such variable
+    while executing
+"format "%.2f" $mom_sys_min_travel(2)"
+    (procedure "PB_CMD_custom_command_4" line 17)
+    invoked from within
+"PB_CMD_custom_command_4"
+    (procedure "MOM_end_of_program" line 16)
+    invoked from within
+"MOM_end_of_program"
+Error Code: TCL LOOKUP VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_end_of_program
+Error Info: can't read "mom_sys_min_travel(2)": no such variable
+    while executing
+"format "%.2f" $mom_sys_min_travel(2)"
+    (procedure "PB_CMD_custom_command_4" line 17)
+    invoked from within
+"PB_CMD_custom_command_4"
+    (procedure "MOM_end_of_program" line 16)
+    invoked from within
+"MOM_end_of_program"
+Error Code: TCL LOOKUP VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_end_of_program
+Error Info: can't read "mom_sys_min_travel(2)": no such variable
+    while executing
+"format "%.2f" $mom_sys_min_travel(2)"
+    (procedure "PB_CMD_custom_command_4" line 17)
+    invoked from within
+"PB_CMD_custom_command_4"
+    (procedure "MOM_end_of_program" line 16)
+    invoked from within
+"MOM_end_of_program"
+Error Code: TCL LOOKUP VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_end_of_program
+Error Info: can't read "mom_sys_min_travel(2)": no such variable
+    while executing
+"format "%.2f" $mom_sys_min_travel(2)"
+    (procedure "PB_CMD_custom_command_4" line 17)
+    invoked from within
+"PB_CMD_custom_command_4"
+    (procedure "MOM_end_of_program" line 16)
+    invoked from within
+"MOM_end_of_program"
+Error Code: TCL LOOKUP VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_start_of_group
+Error Info: can't read "mom_tool_diameter": no such variable
+    while executing
+"format "%.2f" $mom_tool_diameter"
+    (procedure "PB_CMD_custom_command_3" line 8)
+    invoked from within
+"PB_CMD_custom_command_3"
+    (procedure "PB_start_of_program" line 14)
+    invoked from within
+"PB_start_of_program "
+    (procedure "MOM_start_of_group" line 24)
+    invoked from within
+"MOM_start_of_group"
+Error Code: TCL READ VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_start_of_group
+Error Info: can't read "mom_tool_diameter": no such variable
+    while executing
+"format "%.2f" $mom_tool_diameter"
+    (procedure "PB_CMD_custom_command_3" line 8)
+    invoked from within
+"PB_CMD_custom_command_3"
+    (procedure "PB_start_of_program" line 14)
+    invoked from within
+"PB_start_of_program "
+    (procedure "MOM_start_of_group" line 24)
+    invoked from within
+"MOM_start_of_group"
+Error Code: TCL READ VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_start_of_group
+Error Info: can't read "mom_tool_diameter": no such variable
+    while executing
+"format "%.2f" $mom_tool_diameter"
+    (procedure "PB_CMD_custom_command_3" line 8)
+    invoked from within
+"PB_CMD_custom_command_3"
+    (procedure "PB_start_of_program" line 14)
+    invoked from within
+"PB_start_of_program "
+    (procedure "MOM_start_of_group" line 24)
+    invoked from within
+"MOM_start_of_group"
+Error Code: TCL READ VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_end_of_program
+Error Info: can't read "mom_sys_min_travel(2)": no such variable
+    while executing
+"format "%.2f" $mom_sys_min_travel(2)"
+    (procedure "PB_CMD_custom_command_4" line 17)
+    invoked from within
+"PB_CMD_custom_command_4"
+    (procedure "MOM_end_of_program" line 16)
+    invoked from within
+"MOM_end_of_program"
+Error Code: TCL LOOKUP VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_end_of_program
+Error Info: can't read "mom_sys_min_travel(2)": no such variable
+    while executing
+"format "%.2f" $mom_sys_min_travel(2)"
+    (procedure "PB_CMD_custom_command_4" line 17)
+    invoked from within
+"PB_CMD_custom_command_4"
+    (procedure "MOM_end_of_program" line 16)
+    invoked from within
+"MOM_end_of_program"
+Error Code: TCL LOOKUP VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_end_of_program
+Error Info: can't read "mom_sys_min_travel(2)": no such variable
+    while executing
+"format "%.2f" $mom_sys_min_travel(2)"
+    (procedure "PB_CMD_custom_command_4" line 17)
+    invoked from within
+"PB_CMD_custom_command_4"
+    (procedure "MOM_end_of_program" line 16)
+    invoked from within
+"MOM_end_of_program"
+Error Code: TCL LOOKUP VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_end_of_program
+Error Info: can't read "mom_sys_min_travel(2)": no such variable
+    while executing
+"format "%.2f" $mom_sys_min_travel(2)"
+    (procedure "PB_CMD_custom_command_4" line 17)
+    invoked from within
+"PB_CMD_custom_command_4"
+    (procedure "MOM_end_of_program" line 16)
+    invoked from within
+"MOM_end_of_program"
+Error Code: TCL LOOKUP VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_end_of_program
+Error Info: can't read "mom_sys_min_travel(2)": no such variable
+    while executing
+"format "%.2f" $mom_sys_min_travel(2)"
+    (procedure "PB_CMD_custom_command_4" line 17)
+    invoked from within
+"PB_CMD_custom_command_4"
+    (procedure "MOM_end_of_program" line 16)
+    invoked from within
+"MOM_end_of_program"
+Error Code: TCL LOOKUP VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_start_of_group
+Error Info: can't read "mom_tool_diameter": no such variable
+    while executing
+"format "%.2f" $mom_tool_diameter"
+    (procedure "PB_CMD_custom_command_3" line 8)
+    invoked from within
+"PB_CMD_custom_command_3"
+    (procedure "PB_start_of_program" line 14)
+    invoked from within
+"PB_start_of_program "
+    (procedure "MOM_start_of_group" line 24)
+    invoked from within
+"MOM_start_of_group"
+Error Code: TCL READ VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_end_of_program
+Error Info: can't read "mom_sys_min_travel(2)": no such variable
+    while executing
+"format "%.2f" $mom_sys_min_travel(2)"
+    (procedure "PB_CMD_custom_command_4" line 17)
+    invoked from within
+"PB_CMD_custom_command_4"
+    (procedure "MOM_end_of_program" line 16)
+    invoked from within
+"MOM_end_of_program"
+Error Code: TCL LOOKUP VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_end_of_program
+Error Info: can't read "mom_sys_min_travel(2)": no such variable
+    while executing
+"format "%.2f" $mom_sys_min_travel(2)"
+    (procedure "PB_CMD_custom_command_4" line 17)
+    invoked from within
+"PB_CMD_custom_command_4"
+    (procedure "MOM_end_of_program" line 16)
+    invoked from within
+"MOM_end_of_program"
+Error Code: TCL LOOKUP VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_end_of_program
+Error Info: can't read "mom_sys_min_travel(2)": no such variable
+    while executing
+"format "%.2f" $mom_sys_min_travel(2)"
+    (procedure "PB_CMD_custom_command_4" line 17)
+    invoked from within
+"PB_CMD_custom_command_4"
+    (procedure "MOM_end_of_program" line 16)
+    invoked from within
+"MOM_end_of_program"
+Error Code: TCL LOOKUP VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_start_of_group
+Error Info: can't read "mom_tool_diameter": no such variable
+    while executing
+"format "%.2f" $mom_tool_diameter"
+    (procedure "PB_CMD_custom_command_3" line 8)
+    invoked from within
+"PB_CMD_custom_command_3"
+    (procedure "PB_start_of_program" line 14)
+    invoked from within
+"PB_start_of_program "
+    (procedure "MOM_start_of_group" line 24)
+    invoked from within
+"MOM_start_of_group"
+Error Code: TCL READ VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_start_of_group
+Error Info: can't read "mom_tool_diameter": no such variable
+    while executing
+"format "%.2f" $mom_tool_diameter"
+    (procedure "PB_CMD_custom_command_3" line 8)
+    invoked from within
+"PB_CMD_custom_command_3"
+    (procedure "PB_start_of_program" line 14)
+    invoked from within
+"PB_start_of_program "
+    (procedure "MOM_start_of_group" line 24)
+    invoked from within
+"MOM_start_of_group"
+Error Code: TCL READ VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_end_of_program
+Error Info: can't read "mom_sys_min_travel(2)": no such variable
+    while executing
+"format "%.2f" $mom_sys_min_travel(2)"
+    (procedure "PB_CMD_custom_command_4" line 17)
+    invoked from within
+"PB_CMD_custom_command_4"
+    (procedure "MOM_end_of_program" line 16)
+    invoked from within
+"MOM_end_of_program"
+Error Code: TCL LOOKUP VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_end_of_program
+Error Info: can't read "mom_sys_min_travel(2)": no such variable
+    while executing
+"format "%.2f" $mom_sys_min_travel(2)"
+    (procedure "PB_CMD_custom_command_4" line 17)
+    invoked from within
+"PB_CMD_custom_command_4"
+    (procedure "MOM_end_of_program" line 16)
+    invoked from within
+"MOM_end_of_program"
+Error Code: TCL LOOKUP VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_end_of_program
+Error Info: can't read "mom_sys_min_travel(2)": no such variable
+    while executing
+"format "%.2f" $mom_sys_min_travel(2)"
+    (procedure "PB_CMD_custom_command_4" line 17)
+    invoked from within
+"PB_CMD_custom_command_4"
+    (procedure "MOM_end_of_program" line 16)
+    invoked from within
+"MOM_end_of_program"
+Error Code: TCL LOOKUP VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_end_of_program
+Error Info: can't read "mom_sys_min_travel(2)": no such variable
+    while executing
+"format "%.2f" $mom_sys_min_travel(2)"
+    (procedure "PB_CMD_custom_command_4" line 17)
+    invoked from within
+"PB_CMD_custom_command_4"
+    (procedure "MOM_end_of_program" line 16)
+    invoked from within
+"MOM_end_of_program"
+Error Code: TCL LOOKUP VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_end_of_program
+Error Info: can't read "mom_sys_min_travel(2)": no such variable
+    while executing
+"format "%.2f" $mom_sys_min_travel(2)"
+    (procedure "PB_CMD_custom_command_4" line 17)
+    invoked from within
+"PB_CMD_custom_command_4"
+    (procedure "MOM_end_of_program" line 16)
+    invoked from within
+"MOM_end_of_program"
+Error Code: TCL LOOKUP VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_start_of_group
+Error Info: can't read "mom_tool_diameter": no such variable
+    while executing
+"format "%.2f" $mom_tool_diameter"
+    (procedure "PB_CMD_custom_command_3" line 8)
+    invoked from within
+"PB_CMD_custom_command_3"
+    (procedure "PB_start_of_program" line 14)
+    invoked from within
+"PB_start_of_program "
+    (procedure "MOM_start_of_group" line 24)
+    invoked from within
+"MOM_start_of_group"
+Error Code: TCL READ VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_start_of_group
+Error Info: can't read "mom_tool_diameter": no such variable
+    while executing
+"format "%.2f" $mom_tool_diameter"
+    (procedure "PB_CMD_custom_command_3" line 8)
+    invoked from within
+"PB_CMD_custom_command_3"
+    (procedure "PB_start_of_program" line 14)
+    invoked from within
+"PB_start_of_program "
+    (procedure "MOM_start_of_group" line 24)
+    invoked from within
+"MOM_start_of_group"
+Error Code: TCL READ VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_end_of_program
+Error Info: can't read "mom_sys_min_travel(2)": no such variable
+    while executing
+"format "%.2f" $mom_sys_min_travel(2)"
+    (procedure "PB_CMD_custom_command_4" line 17)
+    invoked from within
+"PB_CMD_custom_command_4"
+    (procedure "MOM_end_of_program" line 16)
+    invoked from within
+"MOM_end_of_program"
+Error Code: TCL LOOKUP VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_end_of_program
+Error Info: can't read "mom_sys_min_travel(2)": no such variable
+    while executing
+"format "%.2f" $mom_sys_min_travel(2)"
+    (procedure "PB_CMD_custom_command_4" line 17)
+    invoked from within
+"PB_CMD_custom_command_4"
+    (procedure "MOM_end_of_program" line 16)
+    invoked from within
+"MOM_end_of_program"
+Error Code: TCL LOOKUP VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_end_of_program
+Error Info: can't read "mom_sys_min_travel(2)": no such variable
+    while executing
+"format "%.2f" $mom_sys_min_travel(2)"
+    (procedure "PB_CMD_custom_command_4" line 17)
+    invoked from within
+"PB_CMD_custom_command_4"
+    (procedure "MOM_end_of_program" line 16)
+    invoked from within
+"MOM_end_of_program"
+Error Code: TCL LOOKUP VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_end_of_program
+Error Info: can't read "mom_sys_min_travel(2)": no such variable
+    while executing
+"format "%.2f" $mom_sys_min_travel(2)"
+    (procedure "PB_CMD_custom_command_4" line 17)
+    invoked from within
+"PB_CMD_custom_command_4"
+    (procedure "MOM_end_of_program" line 16)
+    invoked from within
+"MOM_end_of_program"
+Error Code: TCL LOOKUP VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_end_of_program
+Error Info: can't read "mom_sys_min_travel(2)": no such variable
+    while executing
+"format "%.2f" $mom_sys_min_travel(2)"
+    (procedure "PB_CMD_custom_command_4" line 17)
+    invoked from within
+"PB_CMD_custom_command_4"
+    (procedure "MOM_end_of_program" line 16)
+    invoked from within
+"MOM_end_of_program"
+Error Code: TCL LOOKUP VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_start_of_group
+Error Info: can't read "mom_tool_diameter": no such variable
+    while executing
+"format "%.2f" $mom_tool_diameter"
+    (procedure "PB_CMD_custom_command_3" line 8)
+    invoked from within
+"PB_CMD_custom_command_3"
+    (procedure "PB_start_of_program" line 14)
+    invoked from within
+"PB_start_of_program "
+    (procedure "MOM_start_of_group" line 24)
+    invoked from within
+"MOM_start_of_group"
+Error Code: TCL READ VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_start_of_group
+Error Info: can't read "mom_tool_diameter": no such variable
+    while executing
+"format "%.2f" $mom_tool_diameter"
+    (procedure "PB_CMD_custom_command_3" line 8)
+    invoked from within
+"PB_CMD_custom_command_3"
+    (procedure "PB_start_of_program" line 14)
+    invoked from within
+"PB_start_of_program "
+    (procedure "MOM_start_of_group" line 24)
+    invoked from within
+"MOM_start_of_group"
+Error Code: TCL READ VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_start_of_group
+Error Info: can't read "mom_tool_diameter": no such variable
+    while executing
+"format "%.2f" $mom_tool_diameter"
+    (procedure "PB_CMD_custom_command_3" line 8)
+    invoked from within
+"PB_CMD_custom_command_3"
+    (procedure "PB_start_of_program" line 14)
+    invoked from within
+"PB_start_of_program "
+    (procedure "MOM_start_of_group" line 24)
+    invoked from within
+"MOM_start_of_group"
+Error Code: TCL READ VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_start_of_group
+Error Info: can't read "mom_tool_diameter": no such variable
+    while executing
+"format "%.2f" $mom_tool_diameter"
+    (procedure "PB_CMD_custom_command_3" line 8)
+    invoked from within
+"PB_CMD_custom_command_3"
+    (procedure "PB_start_of_program" line 14)
+    invoked from within
+"PB_start_of_program "
+    (procedure "MOM_start_of_group" line 24)
+    invoked from within
+"MOM_start_of_group"
+Error Code: TCL READ VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_end_of_program
+Error Info: can't read "mom_sys_min_travel(2)": no such variable
+    while executing
+"format "%.2f" $mom_sys_min_travel(2)"
+    (procedure "PB_CMD_custom_command_4" line 17)
+    invoked from within
+"PB_CMD_custom_command_4"
+    (procedure "MOM_end_of_program" line 16)
+    invoked from within
+"MOM_end_of_program"
+Error Code: TCL LOOKUP VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_end_of_program
+Error Info: can't read "mom_sys_min_travel(2)": no such variable
+    while executing
+"format "%.2f" $mom_sys_min_travel(2)"
+    (procedure "PB_CMD_custom_command_4" line 17)
+    invoked from within
+"PB_CMD_custom_command_4"
+    (procedure "MOM_end_of_program" line 16)
+    invoked from within
+"MOM_end_of_program"
+Error Code: TCL LOOKUP VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_end_of_program
+Error Info: can't read "mom_sys_min_travel(2)": no such variable
+    while executing
+"format "%.2f" $mom_sys_min_travel(2)"
+    (procedure "PB_CMD_custom_command_4" line 17)
+    invoked from within
+"PB_CMD_custom_command_4"
+    (procedure "MOM_end_of_program" line 16)
+    invoked from within
+"MOM_end_of_program"
+Error Code: TCL LOOKUP VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_end_of_program
+Error Info: can't read "mom_sys_min_travel(2)": no such variable
+    while executing
+"format "%.2f" $mom_sys_min_travel(2)"
+    (procedure "PB_CMD_custom_command_4" line 17)
+    invoked from within
+"PB_CMD_custom_command_4"
+    (procedure "MOM_end_of_program" line 16)
+    invoked from within
+"MOM_end_of_program"
+Error Code: TCL LOOKUP VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_end_of_program
+Error Info: can't read "mom_sys_min_travel(2)": no such variable
+    while executing
+"format "%.2f" $mom_sys_min_travel(2)"
+    (procedure "PB_CMD_custom_command_4" line 17)
+    invoked from within
+"PB_CMD_custom_command_4"
+    (procedure "MOM_end_of_program" line 16)
+    invoked from within
+"MOM_end_of_program"
+Error Code: TCL LOOKUP VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_start_of_group
+Error Info: can't read "mom_tool_diameter": no such variable
+    while executing
+"format "%.2f" $mom_tool_diameter"
+    (procedure "PB_CMD_custom_command_3" line 8)
+    invoked from within
+"PB_CMD_custom_command_3"
+    (procedure "PB_start_of_program" line 14)
+    invoked from within
+"PB_start_of_program "
+    (procedure "MOM_start_of_group" line 24)
+    invoked from within
+"MOM_start_of_group"
+Error Code: TCL READ VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_start_of_group
+Error Info: can't read "mom_tool_diameter": no such variable
+    while executing
+"format "%.2f" $mom_tool_diameter"
+    (procedure "PB_CMD_custom_command_3" line 8)
+    invoked from within
+"PB_CMD_custom_command_3"
+    (procedure "PB_start_of_program" line 14)
+    invoked from within
+"PB_start_of_program "
+    (procedure "MOM_start_of_group" line 24)
+    invoked from within
+"MOM_start_of_group"
+Error Code: TCL READ VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_start_of_group
+Error Info: can't read "mom_tool_diameter": no such variable
+    while executing
+"format "%.2f" $mom_tool_diameter"
+    (procedure "PB_CMD_custom_command_3" line 8)
+    invoked from within
+"PB_CMD_custom_command_3"
+    (procedure "PB_start_of_program" line 14)
+    invoked from within
+"PB_start_of_program "
+    (procedure "MOM_start_of_group" line 24)
+    invoked from within
+"MOM_start_of_group"
+Error Code: TCL READ VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_end_of_program
+Error Info: can't read "mom_sys_min_travel(2)": no such variable
+    while executing
+"format "%.2f" $mom_sys_min_travel(2)"
+    (procedure "PB_CMD_custom_command_4" line 17)
+    invoked from within
+"PB_CMD_custom_command_4"
+    (procedure "MOM_end_of_program" line 16)
+    invoked from within
+"MOM_end_of_program"
+Error Code: TCL LOOKUP VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_end_of_program
+Error Info: can't read "mom_sys_min_travel(2)": no such variable
+    while executing
+"format "%.2f" $mom_sys_min_travel(2)"
+    (procedure "PB_CMD_custom_command_4" line 17)
+    invoked from within
+"PB_CMD_custom_command_4"
+    (procedure "MOM_end_of_program" line 16)
+    invoked from within
+"MOM_end_of_program"
+Error Code: TCL LOOKUP VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_end_of_program
+Error Info: can't read "mom_sys_min_travel(2)": no such variable
+    while executing
+"format "%.2f" $mom_sys_min_travel(2)"
+    (procedure "PB_CMD_custom_command_4" line 17)
+    invoked from within
+"PB_CMD_custom_command_4"
+    (procedure "MOM_end_of_program" line 16)
+    invoked from within
+"MOM_end_of_program"
+Error Code: TCL LOOKUP VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_end_of_program
+Error Info: can't read "mom_sys_min_travel(2)": no such variable
+    while executing
+"format "%.2f" $mom_sys_min_travel(2)"
+    (procedure "PB_CMD_custom_command_4" line 17)
+    invoked from within
+"PB_CMD_custom_command_4"
+    (procedure "MOM_end_of_program" line 16)
+    invoked from within
+"MOM_end_of_program"
+Error Code: TCL LOOKUP VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_end_of_program
+Error Info: can't read "mom_sys_min_travel(2)": no such variable
+    while executing
+"format "%.2f" $mom_sys_min_travel(2)"
+    (procedure "PB_CMD_custom_command_4" line 17)
+    invoked from within
+"PB_CMD_custom_command_4"
+    (procedure "MOM_end_of_program" line 16)
+    invoked from within
+"MOM_end_of_program"
+Error Code: TCL LOOKUP VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_start_of_group
+Error Info: can't read "mom_tool_diameter": no such variable
+    while executing
+"format "%.2f" $mom_tool_diameter"
+    (procedure "PB_CMD_custom_command_3" line 8)
+    invoked from within
+"PB_CMD_custom_command_3"
+    (procedure "PB_start_of_program" line 14)
+    invoked from within
+"PB_start_of_program "
+    (procedure "MOM_start_of_group" line 24)
+    invoked from within
+"MOM_start_of_group"
+Error Code: TCL READ VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_end_of_program
+Error Info: can't read "mom_sys_min_travel(2)": no such variable
+    while executing
+"format "%.2f" $mom_sys_min_travel(2)"
+    (procedure "PB_CMD_custom_command_4" line 17)
+    invoked from within
+"PB_CMD_custom_command_4"
+    (procedure "MOM_end_of_program" line 16)
+    invoked from within
+"MOM_end_of_program"
+Error Code: TCL LOOKUP VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_end_of_program
+Error Info: can't read "mom_sys_min_travel(2)": no such variable
+    while executing
+"format "%.2f" $mom_sys_min_travel(2)"
+    (procedure "PB_CMD_custom_command_4" line 17)
+    invoked from within
+"PB_CMD_custom_command_4"
+    (procedure "MOM_end_of_program" line 16)
+    invoked from within
+"MOM_end_of_program"
+Error Code: TCL LOOKUP VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_end_of_program
+Error Info: can't read "mom_sys_min_travel(2)": no such variable
+    while executing
+"format "%.2f" $mom_sys_min_travel(2)"
+    (procedure "PB_CMD_custom_command_4" line 17)
+    invoked from within
+"PB_CMD_custom_command_4"
+    (procedure "MOM_end_of_program" line 16)
+    invoked from within
+"MOM_end_of_program"
+Error Code: TCL LOOKUP VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_start_of_group
+Error Info: can't read "mom_tool_diameter": no such variable
+    while executing
+"format "%.2f" $mom_tool_diameter"
+    (procedure "PB_CMD_custom_command_3" line 8)
+    invoked from within
+"PB_CMD_custom_command_3"
+    (procedure "PB_start_of_program" line 14)
+    invoked from within
+"PB_start_of_program "
+    (procedure "MOM_start_of_group" line 24)
+    invoked from within
+"MOM_start_of_group"
+Error Code: TCL READ VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_end_of_program
+Error Info: can't read "mom_sys_min_travel(2)": no such variable
+    while executing
+"format "%.2f" $mom_sys_min_travel(2)"
+    (procedure "PB_CMD_custom_command_4" line 17)
+    invoked from within
+"PB_CMD_custom_command_4"
+    (procedure "MOM_end_of_program" line 16)
+    invoked from within
+"MOM_end_of_program"
+Error Code: TCL LOOKUP VARNAME
+***** A TCL Error Has Occurred *****
+Event Handler: C:\Program Files\Siemens\NX2312\mach\resource\postprocessor\steel.tcl
+Event: MOM_end_of_program
+Error Info: can't read "mom_sys_min_travel(2)": no such variable
+    while executing
+"format "%.2f" $mom_sys_min_travel(2)"
+    (procedure "PB_CMD_custom_command_4" line 17)
+    invoked from within
+"PB_CMD_custom_command_4"
+    (procedure "MOM_end_of_program" line 16)
+    invoked from within
+"MOM_end_of_program"
+Error Code: TCL LOOKUP VARNAME
