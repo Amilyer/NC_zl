@@ -1,11 +1,10 @@
 # -*- coding: utf-8 -*-
 """
 步骤 3: 数据配对与格式转换 (run_step3.py)
-功能：
-1. Step 3.1: 从拆分后的 DXF 提取尺寸信息
-2. Step 3.2: 与 3D PRT 尺寸数据进行配对
-3. Step 3.3: 将 DXF 文件批量转换为 PRT 格式
+功能
 """
+
+print("hello,the pretty cat named Qin~")
 
 import shutil
 import time
