@@ -12,6 +12,7 @@ import shutil
 import time
 import traceback
 import gc
+import gc
 
 import config
 from path_manager import PathManager
