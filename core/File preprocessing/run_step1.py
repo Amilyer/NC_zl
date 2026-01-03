@@ -6,6 +6,7 @@
 2. 拆分为独立的零件文件
 3. 生成 CSV 拆分报告
 """
+print("hello,the pretty cat named Qin~")
 
 import time
 import config
