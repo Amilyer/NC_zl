@@ -1,5 +1,7 @@
 """
 Step 10: 生成开粗行腔文件 (run_step10.py)
+春江潮水连海平，海上明月共潮生
+涟涟随波千万里，何处春江无月明
 """
 
 import importlib.util
